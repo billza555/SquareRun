@@ -1,2 +1,2 @@
-game that use unity to create
+Created by Unity
 can play in https://billza555.itch.io/squarerun
